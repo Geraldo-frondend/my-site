@@ -14,7 +14,7 @@
   </section>
 
   <section class="banner">
-    <img src="imagens/banner_regras.png" height="200" width="350">
+    <img src="https://cdn.discordapp.com/attachments/1359955248252322082/1375438270976102470/1748000420737.png?ex=68988536&is=689733b6&hm=315ced52657b5d0db815448aa0c4ab3045c651e85faa55957b3c233b8441bf50&" height="200" width="350">
   </section>
  <section class="Introducao">
    <h2>Introdução</h2>
